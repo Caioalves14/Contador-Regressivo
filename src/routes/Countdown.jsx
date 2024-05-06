@@ -8,7 +8,7 @@ const Countdown = () => {
 
   return (
     <>
-        <Title title={"Contagem regressiva pra 2023"}/>
+        <Title title={"Contagem regressiva pra 2025"}/>
         <div className='countdown-container'>
           <Counter title={"Dias"} number={day} />
           <Counter title={"Horas"} number={hour} />
